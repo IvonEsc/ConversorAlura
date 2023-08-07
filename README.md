@@ -5,6 +5,10 @@ Nuestra API ofrece una amplia gama de opciones de conversión de moneda, permiti
 
 Además de la conversión de moneda, nuestra API también facilita la conversión de unidades de temperatura. Los usuarios pueden convertir entre Celsius, Fahrenheit y Kelvin con una precisión de décimas, lo que resulta útil para aplicaciones relacionadas con el clima, la industria y más.
 
+## Demo
+
+![](https://github.com/IvonEsc/ConversorAlura/blob/main/Demo.gif)
+
 
 ## Badges
 
@@ -50,8 +54,3 @@ Realiza conversiones de temperatura entre Celsius, Fahrenheit y Kelvin.
 - [@IvonEsc](https://github.com/IvonEsc)
 
 
-## Demo
-
-
-
-![](https://github.com/IvonEsc/ConversorAlura/blob/main/Demo.gif)
